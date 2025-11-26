@@ -1,0 +1,11 @@
+# Datasets
+data/
+XNLI-1.0/
+XNLI-MT-1.0/
+
+# Model artifacts
+models/
+*.pt
+*.bin
+*.npz
+*.ckpt
